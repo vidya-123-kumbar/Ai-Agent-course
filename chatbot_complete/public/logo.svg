@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="AI logo">
+  <rect width="256" height="256" rx="40" fill="#EEF7F0"/>
+  <circle cx="128" cy="128" r="92" fill="#76C27A"/>
+  <path d="M128 72 L172 182 L152 182 L140 152 L116 152 L104 182 L84 182 L128 72 Z M122 120 L134 120 L141 142 L115 142 L122 120 Z" fill="white"/>
+</svg>
